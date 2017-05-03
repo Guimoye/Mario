@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Contact Taxi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_calificar">Calificar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_perfil">Ver Perfil</string>
+
+
+    <string name="label_register">Registrar Usuario</string>
+    <string name="label_recuperar">Recuperar Usuario</string>
+
+    <string name="action_settings_eliminar">Eliminar</string>
+    <string name="action_settings_modificar">Modificar</string>
+    <string name="action_settings_agregar">Agregar</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_tlfno">Telefono</string>
+    <string name="prompt_tipo">Tipo de Usuario</string>
+    <string name="prompt_pregunta">Pregunta</string>
+    <string name="prompt_respuesta">Respuesta</string>
+    <string name="prompt_nacionalidad">Nacionalidad</string>
+    <string name="prompt_nrodocumento">Nro de documento</string>
+    <string name="prompt_ocupacion">Ocupacion</string>
+    <string name="prompt_nombre">Nombre y Apellido</string>
+
+    <string name="action_sign_in">Loggin</string>
+    <string name="action_register_in">Registrar</string>
+    <string name="action_modificar_in">Modificar</string>
+    <string name="action_recuperar_in">Recuperar Password</string>
+
+
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">el formato del correo es invalido</string>
+    <string name="error_incorrect_usuario">Usuario Incorrecto</string>
+    <string name="error_incorrect_password">La Contraseña es Incorrecta</string>
+
+    <string name="error_field_required">Porfavor llene este campo</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ver_datos_perfil">Perfil de Usuario</string>
+    <string name="title_activity_ver_datos_perfil_taxista">Perfil de Taxista</string>
+    <string name="title_activity_ver_datos_perfil_cliente">Perfil de Cliente</string>
+    <string name="title_activity_maps_activityii">Map</string>
+    <string name="acerca">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>

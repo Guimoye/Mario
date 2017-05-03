@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ver"
+        android:orderInCategory="100"
+        android:title="@string/action_perfil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/eliminar"
+        android:orderInCategory="100"
+        android:title="@string/action_eliminar"
+        app:showAsAction="never" />
+
+</menu>

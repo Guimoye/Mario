@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_usuario"
+            android:title="Perfil" />
+
+
+        <item
+            android:id="@+id/nav_ubicacion"
+            android:icon="@drawable/ic_ubicame"
+            android:title="Ubicacion" />
+
+
+        <item
+            android:id="@+id/nav_favorito"
+            android:icon="@drawable/ic_favorite"
+            android:title="Favoritos" />
+
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@drawable/ic_hist"
+            android:title="Historial" />
+
+
+    </group>
+
+
+    <item android:title="Opciones">
+        <menu>
+
+
+            <item
+                android:id="@+id/nav_terminos"
+                android:icon="@drawable/ic_terminos"
+                android:title="Terminos y Condiciones de Uso" />
+
+            <item
+                android:id="@+id/nav_cerrar"
+                android:icon="@drawable/ic_cerrar"
+                android:title="Cerrar Sesion" />
+
+        </menu>
+    </item>
+
+
+</menu>
